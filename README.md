@@ -11,6 +11,7 @@ An iOS Mobile App for the Open-Source Bona Blogging platform.
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 * [License](#license)
+* [Contributing](#contributing)
 
 ## General info
 An Open-Source bloggig plaform like [Medium](https://medium.com/) and [Real Python](https://realpython.com/) built with Python and Django. It has a number of [features](#features) needed for a standard bloggin platform.
@@ -84,3 +85,11 @@ Created by [Williano](https://williano.github.io/) - feel free to contact me!
 >You can check out the full license [here](https://github.com/Williano/Bona-Mobile/blob/master/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
+
+## Contributing
+
+1. Fork it (<https://github.com/Williano/Bona-Mobile.git>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
