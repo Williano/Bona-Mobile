@@ -238,7 +238,7 @@
                         <subviews>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsVerticalScrollIndicator="NO" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="Jkb-Sw-9v0">
                                 <rect key="frame" x="16" y="139" width="343" height="479"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" red="0.92941176470588238" green="0.95294117647058818" blue="0.95294117647058818" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="S0l-7t-WgY">
                                     <size key="itemSize" width="170" height="204"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
@@ -295,7 +295,7 @@
                                 </cells>
                             </collectionView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.92941176470588238" green="0.95294117647058818" blue="0.95294117647058818" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="Jkb-Sw-9v0" firstAttribute="leading" secondItem="unC-yr-qry" secondAttribute="leading" constant="16" id="1Bk-sV-Rma"/>
                             <constraint firstItem="unC-yr-qry" firstAttribute="trailing" secondItem="Jkb-Sw-9v0" secondAttribute="trailing" constant="16" id="Pf7-HI-LA0"/>
@@ -362,6 +362,7 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="iv1-B8-Ecz" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="HAp-mS-8HH">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
